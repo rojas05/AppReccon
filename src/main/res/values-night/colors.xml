@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="Dark_Tan">#780d0d</color>
-    <color name="Tom_Thumb">#345733</color>
-    <color name="Thunderbird">#b11b1b</color>
-    <color name="Hippie_Green">#4a784a</color>
+    <color name="Dark_Tan">#b11b1b</color>
+    <color name="Tom_Thumb">#4a784a</color>
+    <color name="Thunderbird">#780d0d</color>
+    <color name="Hippie_Green">#345733</color>
     <color name="Cinnabar">#e63933</color>
 
     <color name="gray">#6b6a66</color>
